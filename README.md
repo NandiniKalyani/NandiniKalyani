@@ -45,3 +45,44 @@ The pattern in my work: I take a messy legacy system with hardcoded configs, man
 
 > **SLD** &nbsp;·&nbsp; K2 SmartForms, C#, Swagger, ADFS/SSO
 > Subcontractors were processing lot dispositions over email. I built the approval workflow that replaced it. **It became the standard tool and is still in production five years later.**
+
+## Tech Stack
+
+**Languages**<br>
+![C#](https://img.shields.io/badge/C%23-0E7C6B?style=flat-square&logoColor=white&logo=csharp)
+![TypeScript](https://img.shields.io/badge/TypeScript-0E7C6B?style=flat-square&logoColor=white&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-0E7C6B?style=flat-square&logoColor=white&logo=javascript)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-0E7C6B?style=flat-square&logoColor=white&logo=oracle)
+![T-SQL](https://img.shields.io/badge/T--SQL-0E7C6B?style=flat-square&logoColor=white&logo=microsoftsqlserver)
+![PowerShell](https://img.shields.io/badge/PowerShell-0E7C6B?style=flat-square&logoColor=white&logo=powershell)
+
+**Backend**<br>
+![.NET](https://img.shields.io/badge/.NET%20%2F%20Core-0E7C6B?style=flat-square&logoColor=white&logo=dotnet)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-0E7C6B?style=flat-square&logoColor=white&logo=dotnet)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-0E7C6B?style=flat-square&logoColor=white&logo=nuget)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0E7C6B?style=flat-square&logoColor=white&logo=swagger)
+![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-0E7C6B?style=flat-square&logoColor=white&logo=oracle)
+
+**Frontend**<br>
+![React](https://img.shields.io/badge/React%20Hooks-0E7C6B?style=flat-square&logoColor=white&logo=react)
+![SPFx](https://img.shields.io/badge/SPFx-0E7C6B?style=flat-square&logoColor=white&logo=microsoftsharepoint)
+![Fluent UI](https://img.shields.io/badge/Fluent%20UI-0E7C6B?style=flat-square&logoColor=white&logo=microsoft)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0E7C6B?style=flat-square&logoColor=white&logo=bootstrap)
+
+**Microsoft 365**<br>
+![SharePoint](https://img.shields.io/badge/SharePoint%20Online%20%26%202019-0E7C6B?style=flat-square&logoColor=white&logo=microsoftsharepoint)
+![MS Graph](https://img.shields.io/badge/Microsoft%20Graph-0E7C6B?style=flat-square&logoColor=white&logo=microsoft)
+![PnP](https://img.shields.io/badge/PnP%20JS%20%26%20PowerShell-0E7C6B?style=flat-square&logoColor=white&logo=microsoft)
+![Purview](https://img.shields.io/badge/Purview%20DLP-0E7C6B?style=flat-square&logoColor=white&logo=microsoft)
+
+**Data**<br>
+![SQL Server](https://img.shields.io/badge/SQL%20Server-0E7C6B?style=flat-square&logoColor=white&logo=microsoftsqlserver)
+![Oracle DB](https://img.shields.io/badge/Oracle%20DB-0E7C6B?style=flat-square&logoColor=white&logo=oracle)
+
+**DevOps**<br>
+![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-0E7C6B?style=flat-square&logoColor=white&logo=gitlab)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0E7C6B?style=flat-square&logoColor=white&logo=azuredevops)
+![Docker](https://img.shields.io/badge/Docker-0E7C6B?style=flat-square&logoColor=white&logo=docker)
+![Octopus Deploy](https://img.shields.io/badge/Octopus%20Deploy-0E7C6B?style=flat-square&logoColor=white&logo=octopusdeploy)
+![IIS](https://img.shields.io/badge/IIS-0E7C6B?style=flat-square&logoColor=white&logo=microsoft)
+![Git](https://img.shields.io/badge/Git-0E7C6B?style=flat-square&logoColor=white&logo=git)
