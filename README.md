@@ -85,3 +85,22 @@ Enterprise collaboration and governance. Products owned end to end across ShareP
 **Senior Software Engineer I**, Microchip Technology &nbsp;·&nbsp; Jul 2016 to Aug 2021
 Four levels in five years: Trainee, SWE-I, SWE-II, Senior SWE-I. Owned multiple internal .NET applications end to end, built workflow applications from scratch, stood up CI/CD pipelines from the ground up, designed and tuned SQL Server schemas, and mentored interns and junior engineers.
 
+### Education, Certifications, Recognition
+
+- **B.E. Information Science**, B.M.S. College of Engineering (VTU), Bengaluru. CGPA 8.61 / 10
+- **Oracle APEX Developer**, certified
+- **Oracle Cloud Infrastructure (OCI)**, certified
+- **Summit Award (Applause)**, Oracle, FY26 Q2, for MyOracle Home and the migration to SharePoint Online
+- **Best Performer of the Year**, Microchip Technology, 2019
+
+### Beyond Work
+
+I volunteer with Prerana NGO on rural education programs and blood donation drives, and mentor engineering students on career growth and placement.
+
+---
+
+<p align="center">
+  <sub>Open to Full-Stack, .NET, or SharePoint / M365 engineering roles in Perth. Contract or permanent.</sub>
+  <br>
+  <a href="mailto:nandini.k.connect@gmail.com">nandini.k.connect@gmail.com</a>
+</p>
