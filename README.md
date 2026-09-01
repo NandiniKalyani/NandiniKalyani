@@ -77,3 +77,11 @@ The pattern in my work: I take a messy legacy system with hardcoded configs, man
 ![IIS](https://img.shields.io/badge/IIS-5C2D91?style=flat-square&logo=microsoft&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+### Experience
+
+**Senior Application Software Engineer**, Oracle (formerly Cerner) &nbsp;·&nbsp; Aug 2021 to Present
+Enterprise collaboration and governance. Products owned end to end across SharePoint, .NET, and Oracle APEX: data models, PL/SQL backends, React and SPFx frontends, PowerShell automation, Docker, GitLab CI/CD. Most recent focus is AI governance, the platform that takes internal AI agents from request through review to release, with 200+ agents through it so far.
+
+**Senior Software Engineer I**, Microchip Technology &nbsp;·&nbsp; Jul 2016 to Aug 2021
+Four levels in five years: Trainee, SWE-I, SWE-II, Senior SWE-I. Owned multiple internal .NET applications end to end, built workflow applications from scratch, stood up CI/CD pipelines from the ground up, designed and tuned SQL Server schemas, and mentored interns and junior engineers.
+
