@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-label="Nandini Krishna Murthy, Full-Stack Software Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a192f"/>
+      <stop offset="55%" stop-color="#0d2038"/>
+      <stop offset="100%" stop-color="#112240"/>
+    </linearGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#64ffda" fill-opacity="0.10"/>
+    </pattern>
+  </defs>
+
+  <rect width="1000" height="250" rx="10" fill="url(#bg)"/>
+  <rect width="1000" height="250" rx="10" fill="url(#grid)"/>
+  <circle cx="880" cy="60" r="150" fill="#64ffda" fill-opacity="0.05"/>
+  <rect x="0" y="0" width="5" height="250" rx="2" fill="#64ffda" fill-opacity="0.85"/>
+
+  <text x="56" y="86" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="19" letter-spacing="4" fill="#64ffda">HI, MY NAME IS</text>
+  <text x="54" y="146" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="52" font-weight="700" fill="#ccd6f6">Nandini Krishna Murthy</text>
+  <text x="56" y="184" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="22" fill="#8892b0">Full-Stack Software Engineer, 10 years building enterprise software</text>
+
+  <rect x="56" y="205" width="9" height="9" rx="4.5" fill="#64ffda"/>
+  <text x="76" y="214" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" fill="#8892b0">Perth, Western Australia</text>
+  <rect x="243" y="205" width="9" height="9" rx="4.5" fill="#64ffda"/>
+  <text x="263" y="214" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" fill="#8892b0">Australian PR, full work rights</text>
+  <rect x="480" y="205" width="9" height="9" rx="4.5" fill="#64ffda"/>
+  <text x="500" y="214" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" fill="#8892b0">Open to contract or permanent</text>
+</svg>
