@@ -86,3 +86,51 @@ The pattern in my work: I take a messy legacy system with hardcoded configs, man
 ![Octopus Deploy](https://img.shields.io/badge/Octopus%20Deploy-0E7C6B?style=flat-square&logoColor=white&logo=octopusdeploy)
 ![IIS](https://img.shields.io/badge/IIS-0E7C6B?style=flat-square&logoColor=white&logo=microsoft)
 ![Git](https://img.shields.io/badge/Git-0E7C6B?style=flat-square&logoColor=white&logo=git)
+
+## Experience
+
+<table>
+<tr>
+  <td width="34%"><b>Oracle</b> (formerly Cerner)<br><sub>Senior Application Software Engineer</sub><br><sub><b>Aug 2021 to Present</b></sub></td>
+  <td>Enterprise collaboration and governance. Products owned end to end across SharePoint, .NET, and Oracle APEX: data models, PL/SQL backends, React and SPFx frontends, PowerShell automation, Docker, GitLab CI/CD. Current focus is governing AI itself.</td>
+</tr>
+<tr>
+  <td><b>Microchip Technology</b><br><sub>Senior Software Engineer I</sub><br><sub><b>Jul 2016 to Aug 2021</b></sub></td>
+  <td>Four levels in five years: Trainee, SWE-I, SWE-II, Senior SWE-I. Owned multiple internal .NET applications end to end, built workflow applications from scratch, stood up CI/CD pipelines from the ground up, tuned SQL Server schemas, and mentored interns and junior engineers.</td>
+</tr>
+</table>
+
+## Education and Recognition
+
+<table>
+<tr>
+  <td width="50%">
+    <b>Education</b><br>
+    B.E. Information Science, B.M.S. College of Engineering (VTU), Bengaluru. CGPA 8.61 / 10
+  </td>
+  <td width="50%">
+    <b>Certifications</b><br>
+    Oracle APEX Developer<br>
+    Oracle Cloud Infrastructure (OCI)
+  </td>
+</tr>
+<tr>
+  <td>
+    <b>Awards</b><br>
+    Summit Award (Applause), Oracle, FY26 Q2<br>
+    Best Performer of the Year, Microchip, 2019
+  </td>
+  <td>
+    <b>Beyond work</b><br>
+    Volunteer with Prerana NGO on rural education and blood donation drives, and mentor engineering students on career growth and placement.
+  </td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+  <b>Open to Full-Stack, .NET, or SharePoint / M365 engineering roles in Perth.</b><br>
+  <sub>Contract or permanent. My inbox is always open.</sub><br><br>
+  <a href="mailto:nandini.k.connect@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-nandini.k.connect@gmail.com-0E7C6B?style=for-the-badge&logo=maildotru&logoColor=white" alt="Say hello"></a>
+</p>
